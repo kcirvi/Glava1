@@ -1,0 +1,10 @@
+start
+log string "	PPPPPPPPPPPPP"
+log string "	P		P"
+log string "	P		P"
+log string "	PPPPPPPPPPPPP"
+log string "	P"
+log string "	P"
+log string "	P"
+log string "	P"
+finish
