@@ -1,0 +1,19 @@
+start
+new name string
+set name "Polina"
+new surname string
+set surname "Nikolaeva"
+new num string
+set num "1234 5678 1011 1314"
+new cvv string
+set cvv "151"
+new data string
+set data "12/30"
+log string "________________________________________"
+log string "|	">>num>>"		|"
+log string "|	data: " >> data >> "			|"
+log string "|	CVV: " >> cvv >> "			|"
+log string "|					|"
+log string "|	" >> name >> " " >> surname >> " 		|"
+log string "________________________________________"
+finish
